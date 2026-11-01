@@ -1,2 +1,6 @@
 # rag-pdf-chatbot
-A RAG-based AI application that allows users to upload any PDF and ask questions about it in natural language. Built with Groq + Llama 3.3, LangChain, FAISS Vector Database, and Streamlit. No heavy model downloads required fast, free, and accurate answers from your documents.
+An AI-powered PDF Question Answering application built using Retrieval-Augmented Generation (RAG). Users can upload PDF documents and ask questions in natural language, receiving context-aware answers based on their documents.
+
+**Technology Stack:** Python, Groq API, Llama 3.3, LangChain, FAISS Vector Database, and Streamlit.
+
+The application uses Groq for fast LLM inference and FAISS for efficient document retrieval, without requiring users to download large language models locally.
