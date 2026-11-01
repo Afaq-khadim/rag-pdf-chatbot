@@ -8,3 +8,4 @@ sentence-transformers
 faiss-cpu
 PyPDF2
 groq
+python-dotenv
